@@ -1,0 +1,109 @@
+"Varun Kothari" : {
+      "bio" : "A versatile full-stack developer,with proficiency in blockchain and Google cloud, having experience on myriad of technologies and programming languages. Gear up yourself to have a hands on session and lightning talk on Microservices enriched with knowledge and experience",
+      "company" : "Throughout Technologies Pvt. Ltd",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Varun Kothari",
+      "photo" : "",
+      "photoUrl" : "https://www.linkedin.com/in/varun-kothari-03005ab/detail/photo/",
+      "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/varunkothari007",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/varun-kothari-03005ab/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/387402/vik",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Senior Developer"
+},
+"Manan Sheth" : {
+      "bio" : "Adept in Buisness analysis and an HDP Certified Spark Developer is here to energize you with his experience on bigdata. From its patterns to its practice and solutions, his proficiency is sure to motivate you to contribute in this coveted field",
+      "company" : "Impetus Infotech I Pvt Ltd",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Manan Sheth",
+      "photo" : "",
+      "photoUrl" : "https://www.linkedin.com/in/manan-sheth-4b538917/detail/photo/",
+      "shortBio" : "Adept in Buisness analysis and an HDP Certified Spark Developer",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/mananstar2001",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/manan-sheth-4b538917",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/6919238/manan-sheth",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Associate Technical Architect"
+},
+"Mohit Soni" : {
+      "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
+      "company" : "WebDunia",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Mohit Soni",
+      "photo" : "",
+      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
+      "shortBio" : "Application Development Expert",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/mohit008",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/iammohitsoni/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/2553431/mohit",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Android Developer"
+},
+
+"Ishwar Sawale" : {
+      "bio" : "Mr. Robot, is here to enrich you with his hands on session in Machine Learning,Computer Vision,ChatBots,AI and Deep Learning. So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
+      "company" : "WebDunia",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Mohit Soni",
+      "photo" : "",
+      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
+      "shortBio" : "An expert Data Scientist",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/ishwarsawale",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ishwarsawale",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/6694165/mr-robot",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Data Scientist"
+},
