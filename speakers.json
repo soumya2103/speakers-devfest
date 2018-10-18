@@ -1,12 +1,9 @@
 "Varun Kothari" : {
       "bio" : "A versatile full-stack developer,with proficiency in blockchain and Google cloud, having experience on myriad of technologies and programming languages. Gear up yourself to have a hands on session and lightning talk on Microservices enriched with knowledge and experience",
       "company" : "Throughout Technologies Pvt. Ltd",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
       "country" : "India",
       "featured" : false,
       "name" : "Varun Kothari",
-      "photo" : "",
       "photoUrl" : "https://www.linkedin.com/in/varun-kothari-03005ab/detail/photo/",
       "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
       "socials" : [ {
@@ -55,12 +52,9 @@
 "Mohit Soni" : {
       "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
       "company" : "WebDunia",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
       "country" : "India",
       "featured" : false,
       "name" : "Mohit Soni",
-      "photo" : "",
       "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
       "shortBio" : "Application Development Expert",
       "socials" : [ {
@@ -83,13 +77,10 @@
 "Ishwar Sawale" : {
       "bio" : "Mr. Robot, is here to enrich you with his hands on session in Machine Learning,Computer Vision,ChatBots,AI and Deep Learning. So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "WebDunia",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
       "country" : "India",
       "featured" : false,
-      "name" : "Ishwar Sawsle",
-      "photo" : "",
-      "photoUrl" : "https://www.linkedin.com/in/ishwarsawale#image-modal",
+      "name" : "Ishwar Sawale",
+      "photoUrl" : "https://www.linkedin.com/in/ishwarsawale/detail/photo/",
       "shortBio" : "An expert Data Scientist",
       "socials" : [ {
         "icon" : "github",
