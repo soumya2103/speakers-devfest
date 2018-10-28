@@ -1,16 +1,16 @@
 "Varun Kothari" : {
       "badges" : [ {
-        "description" : "Blockchain Expert",
+        "description" : "Technical Architect and Blockchain Expert",
       }],
-      "bio" : "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bring dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Nails and blockchain. He has significantly contributed and got recognition for design, development and deployment of world-class web applications. From completing end to end management of new websites development projects to managing teams, He has done it all. Currently this dynamic personality is working as Sr.ROR and blockchain developer in Throughout Technologies Pvt. Ltd. Having a long time experience in microservices, He has enabled the continuous deployment of large and complex applications, we are delighted to invite him for enriching our top notch crowd with indispensible knowledge and experience through a hands on session on Microservices",
+      "bio" : "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bringing dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Nails and blockchain. His primary expertise is cloud services and Microservices and he enjoys delivering talks on them. He actively mentors professionals and students about the tech world in Systango and Vaishnav College. He loves developing applications that bring a change to the tech world. Currently, He is the cofounder and director of Throughout Technologies Pvt. Ltd.",
       "company" : "Throughout Technologies Pvt. Ltd",
-      "company logo" : gs://gdg-devfest-18-97ada.appspot.com/throughttechlogo.jpeg,
+      "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/throughttechlogo.jpeg",
       "country" : "India",
       "featured" : false,
       "name" : "Varun Kothari",
-      "photo": gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg,
-      "photoUrl" : gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg,
-      "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
+      "photo": "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
+      "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
+      "shortBio" : "Dynamic and versatile full stack developer with proficiency in Microservices and Cloud Computing",
       "socials" : [ {
         "icon" : "github",
         "link" : "https://github.com/varunkothari007",
@@ -25,7 +25,7 @@
         "name" : "Stack Overflow"
       } ],
       "order" : 1,
-      "title" : "Senior Developer"
+      "title" : "Cofounder and Director"
 },
 "Ishwar Sawale" : {
       "bio" : "Mr. Robot, is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
