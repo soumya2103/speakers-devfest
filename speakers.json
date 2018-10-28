@@ -75,7 +75,7 @@
 },
 
 "Ishwar Sawale" : {
-      "bio" : "Mr. Robot, is here to enrich you with his hands on session in Machine Learning,Computer Vision,ChatBots,AI and Deep Learning. So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
+      "bio" : "Mr. Robot, is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "Mindstix Software Labs",
       "country" : "India",
       "featured" : false,
@@ -97,4 +97,29 @@
       } ],
       "order" : 1,
       "title" : "Data Scientist"
+},
+
+"Ankush Tiwari" : {
+      "bio" : "As the CTO of Mobiliya Technologies, Pune, his key focus areas are leading the IT Strategy, managing global alliances , overseeing annual financial and regulatory planning, and managing multiple engineering teams worldwide. He is also a Machine Lerning, AI and Deep Learning expert. His session will enlighten the audience with Machine Learning and Deep Learning concepts.  ",
+      "company" : "Mobiliya Technologies",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Ankush Tiwari",
+      "photoUrl" : "https://www.linkedin.com/in/ankushtiwari/detail/photo/",
+      "shortBio" : "Chief Technical Officer at Mobiliya Technologies, Pune",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "www.linkedin.com/in/ankushtiwari",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Machine Learning Expert"
 },
