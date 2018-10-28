@@ -27,33 +27,6 @@
       "order" : 1,
       "title" : "Senior Developer"
 },
-"Manan Sheth" : {
-      "bio" : "Adept in Buisness analysis and an HDP Certified Spark Developer is here to energize you with his experience on bigdata. From its patterns to its practice and solutions, his proficiency is sure to motivate you to contribute in this coveted field",
-      "company" : "Impetus Infotech I Pvt Ltd",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Manan Sheth",
-      "photo" : "",
-      "photoUrl" : "https://www.linkedin.com/in/manan-sheth-4b538917/detail/photo/",
-      "shortBio" : "Adept in Buisness analysis and an HDP Certified Spark Developer",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/mananstar2001",
-        "name" : "Github"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/manan-sheth-4b538917",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "stackoverflow",
-        "link" : "https://stackoverflow.com/users/6919238/manan-sheth",
-        "name" : "Stack Overflow"
-      } ],
-      "order" : 1,
-      "title" : "Associate Technical Architect"
-},
 "Mohit Soni" : {
       "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
       "company" : "WebDunia",
@@ -78,7 +51,6 @@
       "order" : 1,
       "title" : "Android Developer"
 },
-
 "Ishwar Sawale" : {
       "bio" : "Mr. Robot, is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "Mindstix Software Labs",
