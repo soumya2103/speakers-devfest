@@ -98,3 +98,55 @@
       "order" : 1,
       "title" : "Data Scientist"
 },
+
+"Nikita Gandhi" : {
+      "bio" : "An experienced professional is here to boost you with her lightning talk session in building beautiful UI using flutter, so get ready for an amazing web designing session ",
+      "company" : "Technovation Pvt Ltd",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Nikita Gandhi",
+      "photoUrl" : "https://www.linkedin.com/in/varun-kothari-03005ab/detail/photo/",
+      "shortBio" : "Experienced Full stack developer",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "      ",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "    ",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Web Developer"
+},
+"Manan Sheth" : {
+      "bio" : " An experienced full stack developer with strong Analytical skills and Business skills, a versatile Big data professional, Big data architecture patterns and practices, Big data warehousing solutions using hive, Hadoop evolution, this amazing lightning talk session is on your way with lot more motivations and guidance ",
+      "company" : "Impetus Pvt Ltd",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Manan Sheth",
+      "photoUrl" : "https://www.linkedin.com/in/manan-sheth-4b538917/detail/photo/ ",
+      "shortBio" : "Big Data professional",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : " https://github.com/mananstar2001 ",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : " https://www.linkedin.com/in/manan-sheth-4b538917",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : " https://stackoverflow.com/users/6919238/manan-sheth ",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Data scientist"
+}
+
+
+
