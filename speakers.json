@@ -154,3 +154,29 @@
       "title" : "Machine Learning Expert"
 },
 
+ "Pawan Kumar" : {
+      "badges" : [ {
+        "description" : "Software Developer",
+      }],
+      "bio" : "Obsessed Software developer and an entrepreneur having facination to work for technology and design field.He is full of enthusiasm for flutter and Dart technology.Pawan is also  a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player,app with firebase libraries.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer. So, energise yourself to have a informative session with him.  ",
+      "company" : "Flick2Know Technologies (P) Limited",
+      "company logo" : "https://www.linkedin.com/company/flick2know/?originalSubdomain=in",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Pawan Kumar",
+      "photo": "https://avatars1.githubusercontent.com/u/12619420?s=400&v=4",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/12619420?s=400&v=4",
+      "shortBio" : "Obsessed Software Developer and expertise in flutter",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/iampawan",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
+        "name" : "LinkedIn"
+      }, {
+         ],
+      "order" : 1,
+      "title" : "Software Developer"
+},
