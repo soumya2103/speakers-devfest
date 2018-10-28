@@ -27,32 +27,6 @@
       "order" : 1,
       "title" : "Senior Developer"
 },
-"Mohit Soni" : {
-      "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
-      "company" : "WebDunia",
-      "company logo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/company%20logo.png",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Mohit Soni",
-      "photo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/mohit%20soni.png",
-      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
-      "shortBio" : "Application Development Expert",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/mohit008",
-        "name" : "Github"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/iammohitsoni/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "stackoverflow",
-        "link" : "https://stackoverflow.com/users/2553431/mohit",
-        "name" : "Stack Overflow"
-      } ],
-      "order" : 1,
-      "title" : "Android Developer"
-},
 "Ishwar Sawale" : {
       "bio" : "Mr. Robot, is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "Mindstix Software Labs",
@@ -78,7 +52,6 @@
       "order" : 1,
       "title" : "Data Scientist"
 },
-
 "Nikita Gandhi" : {
       "bio" : "An experienced professional is here to boost you with her lightning talk session in building beautiful UI using flutter, so get ready for an amazing web designing session ",
       "company" : "Technovation Pvt Ltd",
@@ -103,8 +76,6 @@
       "order" : 1,
       "title" : "Web Developer"
 },
-
-
 "Ankush Tiwari" : {
       "bio" : "As the CTO of Mobiliya Technologies, Pune, his key focus areas are leading the IT Strategy, managing global alliances , overseeing annual financial and regulatory planning, and managing multiple engineering teams worldwide. He is also a Machine Lerning, AI and Deep Learning expert. His session will enlighten the audience with Machine Learning and Deep Learning concepts.  ",
       "company" : "Mobiliya Technologies",
@@ -129,7 +100,6 @@
       "order" : 1,
       "title" : "Machine Learning Expert"
 },
-
  "Pawan Kumar" : {
       "badges" : [ {
         "description" : "Software Developer",
@@ -156,21 +126,19 @@
       "order" : 1,
       "title" : "Software Developer"
 },
-
-                   
-     “Nikita_Gandhi” : {
+      "Nikita_Gandhi": {
       "badges" : [ {
-        "description" : “Product Lead”,
+        "description" : "Product Lead",
         "link" : "https://www.womentechmakers.com/directory/nikita-gandhi",
-        "name" : “Women Techmakers Pune Organiser”
+        "name" : "Women Techmakers Pune Organiser"
       } ],
       "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
-      "company" : “JI Technovation“,
+      "company" : "JI Technovation",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
       "companyLogoUrl" : "https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwihyZ3rnqneAhVLuY8KHYXbChsQjRx6BAgBEAU&url=https%3A%2F%2Fplus.google.com%2F106847736560695753105&psig=AOvVaw0Ut8iuRKZUcz-lPddbcVRo&ust=1540819698580557",
-      "country" : “Pune, India”,
+      "country" : "Pune, India",
       "featured" : true,
-      "name" : “Nikita Gandhi”,
+      "name" : "Nikita Gandhi",
       "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
       "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
       "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
@@ -188,10 +156,8 @@
         "name" : "Google+"
       } ],
       "order" : 26,
-      "title" : “Flutter Evangelist & Developer"
-    }
-
-
+      "title" : "Flutter Evangelist & Developer"
+    },
 "Ajinkya Kolhe" : {
       "badges" : [ {
         "description" : "Data Engineering & Machine Learning Instructor Google Cloud Platform",
