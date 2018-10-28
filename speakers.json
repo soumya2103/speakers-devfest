@@ -1,11 +1,11 @@
 "Varun Kothari" : {
       "bio" : "A versatile full-stack developer,with proficiency in blockchain and Google cloud, having experience on myriad of technologies and programming languages. Gear up yourself to have a hands on session and lightning talk on Microservices enriched with knowledge and experience",
       "company" : "Throughout Technologies Pvt. Ltd",
-      "company logo" : ""
+      "company logo" : "https://github.com/soumya2103/speakers/blob/master/Varunkothari/companylogo.png",
       "country" : "India",
       "featured" : false,
       "name" : "Varun Kothari",
-      "photo": "https://github.com/soumya2103/speakers/blob/master/Varunkothari/varun%20kothari.png"
+      "photo": "https://github.com/soumya2103/speakers/blob/master/Varunkothari/varun%20kothari.png",
       "photoUrl" : "https://www.linkedin.com/in/varun-kothari-03005ab/detail/photo/",
       "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
       "socials" : [ {
