@@ -102,31 +102,6 @@
       "order" : 1,
       "title" : "Web Developer"
 },
-"Manan Sheth" : {
-      "bio" : " An experienced full stack developer with strong Analytical skills and Business skills, a versatile Big data professional, Big data architecture patterns and practices, Big data warehousing solutions using hive, Hadoop evolution, this amazing lightning talk session is on your way with lot more motivations and guidance ",
-      "company" : "Impetus Pvt Ltd",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Manan Sheth",
-      "photoUrl" : "https://www.linkedin.com/in/manan-sheth-4b538917/detail/photo/ ",
-      "shortBio" : "Big Data professional",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : " https://github.com/mananstar2001 ",
-        "name" : "Github"
-      }, {
-        "icon" : "linkedin",
-        "link" : " https://www.linkedin.com/in/manan-sheth-4b538917",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "stackoverflow",
-        "link" : " https://stackoverflow.com/users/6919238/manan-sheth ",
-        "name" : "Stack Overflow"
-      } ],
-      "order" : 1,
-      "title" : "Data scientist"
-}
-
 
 
 "Ankush Tiwari" : {
@@ -180,3 +155,65 @@
       "order" : 1,
       "title" : "Software Developer"
 },
+
+                   
+     “Nikita_Gandhi” : {
+      "badges" : [ {
+        "description" : “Product Lead”,
+        "link" : "https://www.womentechmakers.com/directory/nikita-gandhi",
+        "name" : “Women Techmakers Pune Organiser”
+      } ],
+      "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
+      "company" : “JI Technovation“,
+      "companyLogo" : "/images/logos/gdg-lviv.svg",
+      "companyLogoUrl" : "https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwihyZ3rnqneAhVLuY8KHYXbChsQjRx6BAgBEAU&url=https%3A%2F%2Fplus.google.com%2F106847736560695753105&psig=AOvVaw0Ut8iuRKZUcz-lPddbcVRo&ust=1540819698580557",
+      "country" : “Pune, India”,
+      "featured" : true,
+      "name" : “Nikita Gandhi”,
+      "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+      "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+      "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/nikita.gandhi01",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Nikkitagandhi",
+        "name" : "Twitter"
+      }, {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+NikitaGandhi01",
+        "name" : "Google+"
+      } ],
+      "order" : 26,
+      "title" : “Flutter Evangelist & Developer"
+    }
+
+
+"Ajinkya Kolhe" : {
+      "badges" : [ {
+        "description" : "Data Engineering & Machine Learning Instructor Google Cloud Platform",
+        "link" : "https://www.linkedin.com/in/ajinkyakolhe112",
+        "name" : "Data Engineering & Machine Learning Instructor Google Cloud Platform"
+      } ],
+      "bio" : "Avid reader since childhood. Now diving in depth of Machine Learning. Technology should be fun. I have fun learning and now trying to pass on my passion of technolgy to others. ",
+      "company" : "Google",
+      "companyLogo" : "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
+      "companyLogoUrl" : "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
+      "country" : "Mumbai, India",
+      "featured" : true,
+      "name" : "Ajinkya Kolhe",
+      "photo" : "https://pbs.twimg.com/profile_images/925336650846126081/wzTWCLTn_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/925336650846126081/wzTWCLTn_400x400.jpg",
+      "shortBio" : "Data Engineering & Machine Learning Instructor",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ajinkyakolhe112",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ajinkyakolhe112",
+        "name" : "Twitter"
+      }
+]
